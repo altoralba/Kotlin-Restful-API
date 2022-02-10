@@ -11,10 +11,10 @@ Unpack the .zip file and open it in IntelliJ IDEA.
 
 ![Project Hierarchy](https://kotlinlang.org/docs/images/spring-boot-project-structure.png)
 
-# To Do:
+## To Do:
 - [x] Initial Setup
 - [x] Get Request
 - [ ] Post Request
 - [ ] Database
 
-More tasks will be added once I get the hang of it even more.
+More tasks will be added once I learn to use Spring Boot even more.
