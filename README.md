@@ -1,7 +1,7 @@
 # Kotlin-Restful-API
 An attempt to learn RESTful API using Kotlin + Spring Boot
 
-# Initial Setup
+## Initial Setup
 
 Generate a Gradle project from the [Spring Initializr website](https://start.spring.io/) using Kotlin as the language.
 
