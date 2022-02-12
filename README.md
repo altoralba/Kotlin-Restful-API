@@ -15,6 +15,6 @@ Unpack the .zip file and open it in IntelliJ IDEA.
 - [x] Initial Setup
 - [x] Get Request
 - [ ] Post Request
-- [ ] Database
+- [ ] Local SQL Database
 
 More tasks will be added once I learn to use Spring Boot even more.
